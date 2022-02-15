@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 3585182a-a9de-5f2a-a789-2ae9921ec7b2
 ---
@@ -72,7 +75,7 @@ Jones, Terry. "[I'm Losing Patience with My Neighbors, Mr. Bush](http://observer
 Is pornography sexist? Should it be regulated?
 {{< tdclose >}}
 {{< tdopen >}}
-Dworkin, Andrea. "[Pornography Happens to Women](https://www.rapereliefshelter.bc.ca/learn/resources/pornography-happens-women-andrea-dworkin-1993)." Speech presented at Speech, Equality and Harm: Feminist Legal Perspectives on Pornography and Hate Propaganda_._ University of Chicago Law School, March 6, 1993.  
+Dworkin, Andrea. "[Pornography Happens to Women](http://www.nostatusquo.com/ACLU/dworkin/PornHappens.html)." Speech presented at Speech, Equality and Harm: Feminist Legal Perspectives on Pornography and Hate Propaganda_._ University of Chicago Law School, March 6, 1993.  
   
 McElroy, Wendy. "[Banning Pornography Endangers Women](http://www.wendymcelroy.com/isil.htm)." International Society for Individual Liberty pamphlet.
 {{< tdclose >}}
