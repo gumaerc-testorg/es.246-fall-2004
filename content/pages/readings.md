@@ -119,7 +119,7 @@ Ikerd, John. "Societal Effects Make Outsourcing a Real Issue." *Columbia Daily T
 The Arab-Israeli Conflict: Where can we go from here?
 {{< tdclose >}}{{< tdopen >}}
 
-Zuckerman, Mortimer. "[The Price of Intransigence](http://connection.ebscohost.com/c/editorials/11615711/price-intransigence)." *U.S. News and World Report,* December 12, 2003.
+Zuckerman, Mortimer. "The Price of Intransigence." *U.S. News and World Report,* December 12, 2003.
 
 Kazak, Ali. "[Bad Fences Make Bad Neighbors](http://www.palestinemonitor.org/spip/)." October 28, 2003.
 
