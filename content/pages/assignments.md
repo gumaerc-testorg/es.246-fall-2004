@@ -15,41 +15,41 @@ In addition to the weekly readings and other assignments, students are expected 
 
 Some English language news sources that we recommend include:
 
-[Aljazeera](http://english.aljazeera.net/HomePage)
+{{% resource_link "ab528061-9c1b-424b-937e-690a95dd517a" "Aljazeera" %}}
 
-[The BBC](http://news.bbc.co.uk/)
+{{% resource_link "07300a4d-4e7c-44de-9069-2682584a72dd" "The BBC" %}}
 
-[The Boston Globe](http://www.boston.com/news/globe/)
+{{% resource_link "eabbef4c-6885-4fa8-b8eb-1ee839fc57bf" "The Boston Globe" %}}
 
-[The Economist](http://economist.com/index.html)
+{{% resource_link "375c004c-6f55-4be7-818e-f7bb07d785b3" "The Economist" %}}
 
-[The Guardian](http://www.guardian.co.uk/)
+{{% resource_link "c5132e7d-77b0-448d-9b0d-de49e2417a6b" "The Guardian" %}}
 
-[Haaretz](http://www.haaretz.com/)
+{{% resource_link "7362e129-dd9f-42a4-affb-4c65e18c45a6" "Haaretz" %}}
 
-[Indymedia.org](https://indymedia.org/)
+{{% resource_link "d2f506ce-982c-4253-a5be-6cd37991b471" "Indymedia.org" %}}
 
-[The L.A. Times](http://www.latimes.com/)
+{{% resource_link "dfdb5be9-cb75-4c9e-8fa7-bfcb94e3783f" "The L.A. Times" %}}
 
-[Le Monde Diplomatique](http://mondediplo.com/)
+{{% resource_link "1e927846-0599-46b9-92f8-696fb26d2a22" "Le Monde Diplomatique" %}}
 
-[The Nation](http://www.thenation.com/)
+{{% resource_link "21a0700a-9ff5-482a-8b93-746ef34dee62" "The Nation" %}}
 
-[National Review](http://www.nationalreview.com/)
+{{% resource_link "1e374116-9be4-46d3-ad45-c7a02174d2a7" "National Review" %}}
 
-[The New York Times](http://www.nytimes.com/)
+{{% resource_link "b31e8f60-5cc8-434c-82d7-8643cda71e37" "The New York Times" %}}
 
-[NPR](http://www.npr.org/)
+{{% resource_link "f7510f0e-255d-4fbf-9487-735f1cb97476" "NPR" %}}
 
-[Salon.com](http://salon.com/)
+{{% resource_link "435fc63e-4eb2-4b24-9808-609bdf8ffeae" "Salon.com" %}}
 
-[Slate](http://www.slate.com/)
+{{% resource_link "13e9064d-0baa-41b3-bb44-5ec1aa3bf0d9" "Slate" %}}
 
-[The Wall Street Journal](http://online.wsj.com/public/us)
+{{% resource_link "925852a1-32f8-4cee-9d33-f7342cd48545" "The Wall Street Journal" %}}
 
-[The Washington Post](http://www.washingtonpost.com/)
+{{% resource_link "7737c8ec-c1cd-4270-b0e4-a56ef7fb6589" "The Washington Post" %}}
 
-You can also see [world-newspapers.com](http://www.world-newspapers.com/) for an enormous list of newspapers, magazines, and other news sources from around the world.
+You can also see {{% resource_link "02db40c0-5695-4e48-a1ee-cd3aabc4147a" "world-newspapers.com" %}} for an enormous list of newspapers, magazines, and other news sources from around the world.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 WEEK #
@@ -62,7 +62,7 @@ ASSIGNMENTS
 {{< tdclose >}}{{< tdopen >}}
 Introduction and Political Systems of Thought
 {{< tdclose >}}{{< tdopen >}}
-Take the quiz at [The Political Compass](http://www.politicalcompass.org/).
+Take the quiz at {{% resource_link "840ae1d2-d6e1-40a3-b9b9-268499848a06" "The Political Compass" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
@@ -109,7 +109,7 @@ Guest Speaker: Toh Ne Win from Goldman Sachs
 In what forms does discrimination exist in our society today? Should the government step in to stop discrimination?
 {{< tdclose >}}{{< tdopen >}}
 
-Look around at [Black People Love Us](http://www.blackpeopleloveus.com/).
+Look around at {{% resource_link "a9ebee46-9362-42a7-9623-cc6ed6edb465" "Black People Love Us" %}}.
 
 Find a modern-day work of fiction, movie clip, website, essay, piece of art, song, or other work that you find racist or sexist. Please bring it in if possible and be prepared to discuss it in class.
 

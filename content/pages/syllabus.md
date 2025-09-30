@@ -8,7 +8,7 @@ ocw_type: CourseSection
 title: Syllabus
 uid: 59057522-b91e-0fab-b748-1411755d2ca5
 ---
-This course, as part of the [Experimental Study Group](http://esg.mit.edu/) Seminar Series, offers students the opportunity to participate in a small discussion-based class taught by an MIT upperclassman under the guidance of a faculty supervisor. Students Claudia Gold (B.S. 07 Political Science) and Jocelyn Rodal (B.S. 06 Literature) taught this seminar in cooperation with Dr. Lee Perlman, Lecturer in the Experimental Study Group. Seminars taught in this format are all graded Pass/Fail and receive 1/2 of the academic credit assigned to regular academic classes.
+This course, as part of the {{% resource_link "a39eecae-3ac1-4743-9620-0fe3742d6b7b" "Experimental Study Group" %}} Seminar Series, offers students the opportunity to participate in a small discussion-based class taught by an MIT upperclassman under the guidance of a faculty supervisor. Students Claudia Gold (B.S. 07 Political Science) and Jocelyn Rodal (B.S. 06 Literature) taught this seminar in cooperation with Dr. Lee Perlman, Lecturer in the Experimental Study Group. Seminars taught in this format are all graded Pass/Fail and receive 1/2 of the academic credit assigned to regular academic classes.
 
 ## Course Meeting Times
 
